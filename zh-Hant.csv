@@ -8054,14 +8054,14 @@ Are you sure you want to discard them?","您有一些未儲存的設定。
 /Game/Vein/UI/UMG/HUD/Chat/WBP_Chat.WBP_Chat_C:WidgetTree.TextEntry.Placeholder,,E1BA736440C8854F4B1DDAA10B978591,Enter a message...,輸入訊息...
 /Game/Vein/UI/UMG/HUD/Chat/WBP_ChatType.WBP_ChatType_C:WidgetTree.TextLabel.Text,,7D6142914F220DFBD3428A8533019299,ChatType,聊天類型
 /Game/Vein/UI/UMG/HUD/Chat/WBP_ChatTypeContent.WBP_ChatTypeContent_C:WidgetTree.TextBlock_34.Text,,44F7B28749C2030C61F93B971B0E3019,ChatTypeContent,聊天類型內容
-/Game/Vein/UI/UMG/HUD/Compass/WBP_Compass.WBP_Compass_C:WidgetTree.TextBlock.Text,,C0E284C54C0382CA1869968E6EFAFD20,E,埃
-/Game/Vein/UI/UMG/HUD/Compass/WBP_Compass.WBP_Compass_C:WidgetTree.TextBlock_1.Text,,5BF76C784883EDE92BB8A9A47D6A865C,S,秒
-/Game/Vein/UI/UMG/HUD/Compass/WBP_Compass.WBP_Compass_C:WidgetTree.TextBlock_2.Text,,FFD6FE964A77A8F66239FBBB022E426F,W,西
-/Game/Vein/UI/UMG/HUD/Compass/WBP_Compass.WBP_Compass_C:WidgetTree.TextBlock_3.Text,,04D751734D2D19565592BD9C47A5C910,N,北
-/Game/Vein/UI/UMG/HUD/Compass/WBP_Compass.WBP_Compass_C:WidgetTree.TextBlock_4.Text,,DABBE8C14F03E0E55BAA228F4B300D57,E,埃
-/Game/Vein/UI/UMG/HUD/Compass/WBP_Compass.WBP_Compass_C:WidgetTree.TextBlock_5.Text,,5CBA98C742DEAE0851982EA0CFA772D4,S,秒
-/Game/Vein/UI/UMG/HUD/Compass/WBP_Compass.WBP_Compass_C:WidgetTree.TextBlock_6.Text,,9A64F20540FCF3918EED08BFEB6BAEE1,W,西
-/Game/Vein/UI/UMG/HUD/Compass/WBP_Compass.WBP_Compass_C:WidgetTree.TextBlock_60.Text,,A37B405C45221D68217319B1629FD0E0,N,北
+/Game/Vein/UI/UMG/HUD/Compass/WBP_Compass.WBP_Compass_C:WidgetTree.TextBlock.Text,,C0E284C54C0382CA1869968E6EFAFD20,E,E
+/Game/Vein/UI/UMG/HUD/Compass/WBP_Compass.WBP_Compass_C:WidgetTree.TextBlock_1.Text,,5BF76C784883EDE92BB8A9A47D6A865C,S,S
+/Game/Vein/UI/UMG/HUD/Compass/WBP_Compass.WBP_Compass_C:WidgetTree.TextBlock_2.Text,,FFD6FE964A77A8F66239FBBB022E426F,W,W
+/Game/Vein/UI/UMG/HUD/Compass/WBP_Compass.WBP_Compass_C:WidgetTree.TextBlock_3.Text,,04D751734D2D19565592BD9C47A5C910,N,N
+/Game/Vein/UI/UMG/HUD/Compass/WBP_Compass.WBP_Compass_C:WidgetTree.TextBlock_4.Text,,DABBE8C14F03E0E55BAA228F4B300D57,E,E
+/Game/Vein/UI/UMG/HUD/Compass/WBP_Compass.WBP_Compass_C:WidgetTree.TextBlock_5.Text,,5CBA98C742DEAE0851982EA0CFA772D4,S,S
+/Game/Vein/UI/UMG/HUD/Compass/WBP_Compass.WBP_Compass_C:WidgetTree.TextBlock_6.Text,,9A64F20540FCF3918EED08BFEB6BAEE1,W,W
+/Game/Vein/UI/UMG/HUD/Compass/WBP_Compass.WBP_Compass_C:WidgetTree.TextBlock_60.Text,,A37B405C45221D68217319B1629FD0E0,N,N
 /Game/Vein/UI/UMG/HUD/WBP_AmmoCount.WBP_AmmoCount_C:GetMagText [Script Bytecode],,59B3FCD24CA156D5457C919E708706DB,"{Count} {Count}|plural(one=loaded mag,other=loaded mags)",{Count} {Count}|複數（一個=已裝填彈匣，另一個=已裝填彈匣）
 /Game/Vein/UI/UMG/HUD/WBP_HUD_Condition_IconLarge.WBP_HUD_Condition_IconLarge_C:WidgetTree.WBP_Button.Tooltip,,A9AAB2D44DE2DF172AAC499F94EA22BC,Remove,消除
 /Game/Vein/UI/UMG/HUD/WBP_HUD_ConstructionCost.WBP_HUD_ConstructionCost_C:WidgetTree.TextBlock.Text,,C9CBF86144360885E7D60C8AADCD6832,Materials,材料
@@ -8069,7 +8069,7 @@ Are you sure you want to discard them?","您有一些未儲存的設定。
 /Game/Vein/UI/UMG/HUD/WBP_Notification.WBP_Notification_C:WidgetTree.CountText.Text,,DFAE502B497870EC198AB99A8D548F4C,x1,x1
 /Game/Vein/UI/UMG/HUD/WBP_UnreadAdminReports.WBP_UnreadAdminReports_C:WidgetTree.TextBlock_33.Text,,6F1EE1E74914D57159CBB089B309B539,There are unresolved admin reports,有未解決的管理員報告
 /Game/Vein/UI/UMG/HUD/WBP_VehicleHUD.WBP_VehicleHUD_C:WidgetTree.TextBlock_3.Text,,459F68AF440E96B5B1FE209C64AF56F8,Tank,坦克
-/Game/Vein/UI/UMG/Inventory/ControlPanels/WBP_ControlPanel_BroadcastRadio.WBP_ControlPanel_BroadcastRadio_C:WidgetTree.TextBlock_72.Text,,963B5AC945E0A276A3D057B92BDF6A49,Vol.,卷
+/Game/Vein/UI/UMG/Inventory/ControlPanels/WBP_ControlPanel_BroadcastRadio.WBP_ControlPanel_BroadcastRadio_C:WidgetTree.TextBlock_72.Text,,963B5AC945E0A276A3D057B92BDF6A49,Vol.,Vol
 /Game/Vein/UI/UMG/Inventory/ControlPanels/WBP_ControlPanel_Firearm_Attachment.WBP_ControlPanel_Firearm_Attachment_C:WidgetTree.WBP_Button.Label,,D428D30E4F0D528F07EAE8AF16F0EEB5,Detach,分離
 /Game/Vein/UI/UMG/Inventory/ControlPanels/WBP_ControlPanel_HandheldRadio.WBP_ControlPanel_HandheldRadio_C:WidgetTree.TextBlock_72.Text,,4EA49C244180D81F6C99B5A452E317C5,Channel,頻道
 /Game/Vein/UI/UMG/Inventory/WBP_CharacterMenu.WBP_CharacterMenu_C:GetBloodTypeText [Script Bytecode],,B2374C744DFF9904A7F9F5BF5D731C6A,Unknown,未知
@@ -8089,11 +8089,11 @@ Are you sure you want to discard them?","您有一些未儲存的設定。
 /Game/Vein/UI/UMG/Inventory/WBP_GroupMenu.WBP_GroupMenu_C:WidgetTree.ChangeName.Label,,F99E06A743CA468CEBBF78867E12A745,Change Name,更改姓名
 /Game/Vein/UI/UMG/Inventory/WBP_GroupMenu.WBP_GroupMenu_C:WidgetTree.ChangeTag.Label,,53168FFE44D3950422C68399AA56E5B6,Change Tag,更改標籤
 /Game/Vein/UI/UMG/Inventory/WBP_GroupMenu.WBP_GroupMenu_C:WidgetTree.CreateGroupButton.Label,,6118EBFB41A1B6C676B1E09D8FE4FE59,Create,創造
-/Game/Vein/UI/UMG/Inventory/WBP_GroupMenu.WBP_GroupMenu_C:WidgetTree.CreateGroupNameEntry.Placeholder,,7FA09D3C4D0F605E053287BEE39C02C0,Group Name,組名
+/Game/Vein/UI/UMG/Inventory/WBP_GroupMenu.WBP_GroupMenu_C:WidgetTree.CreateGroupNameEntry.Placeholder,,7FA09D3C4D0F605E053287BEE39C02C0,Group Name,隊名
 /Game/Vein/UI/UMG/Inventory/WBP_GroupMenu.WBP_GroupMenu_C:WidgetTree.DissolveButton.Label,,C3C8298B4653EF3675650E9C6817B245,Dissolve,溶解
 /Game/Vein/UI/UMG/Inventory/WBP_GroupMenu.WBP_GroupMenu_C:WidgetTree.LeaveButton.Label,,27AF9B81439325C6A679F592142AE892,Leave,離開
 /Game/Vein/UI/UMG/Inventory/WBP_GroupMenu.WBP_GroupMenu_C:WidgetTree.Members.Text,,F609865847125C1F68643FB19A9C82B3,Members,成員
-/Game/Vein/UI/UMG/Inventory/WBP_GroupMenu.WBP_GroupMenu_C:WidgetTree.TextBlock.Text,,ABFBF2614B76170DFE903BA762E04E2D,Create Group,建立群組
+/Game/Vein/UI/UMG/Inventory/WBP_GroupMenu.WBP_GroupMenu_C:WidgetTree.TextBlock.Text,,ABFBF2614B76170DFE903BA762E04E2D,Create Group,建立隊伍
 /Game/Vein/UI/UMG/Inventory/WBP_GroupMenu.WBP_GroupMenu_C:WidgetTree.TextBlock_1.Text,,AE523D1B4F495BB16572688358B563EB,Invites,邀請
 /Game/Vein/UI/UMG/Inventory/WBP_GroupMenu.WBP_GroupMenu_C:WidgetTree.TextBlock_197.Text,,B72A44D74E70818D82CF2AB4CE659A36,Group,團體
 /Game/Vein/UI/UMG/Inventory/WBP_GroupMenu.WBP_GroupMenu_C:WidgetTree.TextBlock_2.Text,,42C34A91471B35807D2F6D950549754F,"You have no group invites. If someone invites you to a group, it will show up here.",您沒有群組邀請。如果有人邀請您加入群組，則會顯示在這裡。
@@ -8137,7 +8137,7 @@ Are you sure you want to discard them?","您有一些未儲存的設定。
 To craft more advanced items and weapons, you need to use a workbench, which you can build in the Construction Menu or find in the world.","您可以在這裡製作基礎配方。
 
 要製作更高級的物品和武器，您需要使用工作台。您可以在「建造」選單中建造工作台，也可以在地圖中找到它。"
-/Game/Vein/UI/UMG/Inventory/WBP_PlayerInventoryWindow.WBP_PlayerInventoryWindow_C:WidgetTree.Upper.Label,,0E96015F4D96CCF68FF438B6D5EA3673,Upper,上
+/Game/Vein/UI/UMG/Inventory/WBP_PlayerInventoryWindow.WBP_PlayerInventoryWindow_C:WidgetTree.Upper.Label,,0E96015F4D96CCF68FF438B6D5EA3673,Upper,上部
 /Game/Vein/UI/UMG/Inventory/WBP_PlayerInventoryWindow.WBP_PlayerInventoryWindow_C:WidgetTree.UpperArmor.Label,,1B2307114FE7385765AEFC86F5E51B12,Upper Armor,上部裝甲
 /Game/Vein/UI/UMG/Inventory/WBP_PlayerInventoryWindow.WBP_PlayerInventoryWindow_C:WidgetTree.WBP_UtilityItemSlot.Label,,B9C29ADD4CA2A1A3934C2BB09E9459C9,Utility,公用事業
 /Game/Vein/UI/UMG/Inventory/WBP_PlayerInventoryWindow.WBP_PlayerInventoryWindow_C:WidgetTree.WBP_UtilityItemSlot_1.Label,,37832C3B4D1F9201BA79FE9B869B4807,Utility,公用事業
@@ -8239,8 +8239,8 @@ Thank you for your understanding and enjoy!
 /Game/Vein/UI/UMG/MainMenu/WBP_MainMenu.WBP_MainMenu_C:WidgetTree.WishlistButton.Label,,47D0087748E2CA54CAFF2383AA24782C,Wishlist on Steam,Steam 上的願望單
 /Game/Vein/UI/UMG/MainMenu/WBP_MainMenu.WBP_MainMenu_C:WidgetTree.WishlistButton.Tooltip,,2CC0646C48016CCD23DB5E8FFAC5C8AE,"This helps us a lot, thank you!",這對我們幫助很大，謝謝！
 /Game/Vein/UI/UMG/MainMenu/WBP_MainMenu_NewGameOptions.WBP_MainMenu_NewGameOptions_C:WidgetTree.PasswordTextEntry.Placeholder,,4A6EFAB14BFAD87FD60A908D9A73DD04,Password...,密碼...
-/Game/Vein/UI/UMG/MainMenu/WBP_MainMenu_NewGameOptions.WBP_MainMenu_NewGameOptions_C:WidgetTree.Privacy.TextOptions(0).TextOptions,,F67DE3A34134152864281798E43425F2,Private,私人的
-/Game/Vein/UI/UMG/MainMenu/WBP_MainMenu_NewGameOptions.WBP_MainMenu_NewGameOptions_C:WidgetTree.Privacy.TextOptions(1).TextOptions,,5BACB898418E858DEDB13EBC6BA2BDA9,Public,民眾
+/Game/Vein/UI/UMG/MainMenu/WBP_MainMenu_NewGameOptions.WBP_MainMenu_NewGameOptions_C:WidgetTree.Privacy.TextOptions(0).TextOptions,,F67DE3A34134152864281798E43425F2,Private,私人伺服
+/Game/Vein/UI/UMG/MainMenu/WBP_MainMenu_NewGameOptions.WBP_MainMenu_NewGameOptions_C:WidgetTree.Privacy.TextOptions(1).TextOptions,,5BACB898418E858DEDB13EBC6BA2BDA9,Public,公開伺服
 /Game/Vein/UI/UMG/MainMenu/WBP_MainMenu_NewGameOptions.WBP_MainMenu_NewGameOptions_C:WidgetTree.ServerNameTextEntry.Placeholder,,49C1F9DB48326ACB920436A327376D0B,Server Name...,伺服器名稱...
 /Game/Vein/UI/UMG/MainMenu/WBP_MainMenu_NewGameOptions.WBP_MainMenu_NewGameOptions_C:WidgetTree.TextBlock.Text,,2CEB58814A88C3D50006AA97513583F8,Map,地圖
 /Game/Vein/UI/UMG/MainMenu/WBP_MainMenu_NewGameOptions.WBP_MainMenu_NewGameOptions_C:WidgetTree.TextBlock_1.Text,,1521528A4EC4FE96A170EF87B3669FD3,Which level to load.,載入哪個等級。
@@ -8746,7 +8746,7 @@ Source/Vein/Appliances/ATM.cpp(97),,ATM,ATM,自動櫃員機
 Source/Vein/Appliances/HandDryerActor.cpp(25),,HandDryer_Name,Hand Dryer,烘手機
 Source/Vein/Appliances/HandDryerActor.cpp(26),,HandDryer_Success,You dry yourself off a little.,你把身體擦乾一點。
 Source/Vein/Appliances/HandDryerActor.cpp(27),,HandDryer_Unpowered,The hand dryer isn't doing anything.,乾手器沒有任何作用。
-Source/Vein/Appliances/HandDryerActor.cpp(46),,HandDryer_Dry,Dry Self,幹自己
+Source/Vein/Appliances/HandDryerActor.cpp(46),,HandDryer_Dry,Dry Self,弄乾自己
 Source/Vein/Appliances/TV.cpp(384),,TV,TV,電視
 Source/Vein/Appliances/TV.cpp(410),,TVIsDestroyed,Destroyed. Will not work.,已毀。無法使用。
 Source/Vein/Appliances/TV.cpp(417),,TV_NowPlaying,Now Playing: {VideoName},正在播放：{VideoName}
@@ -8763,7 +8763,7 @@ Source/Vein/Appliances/WaterSourceComponent.cpp(276),,Wash Self,Wash Self,自行
 Source/Vein/Appliances/WaterSourceComponent.cpp(289),,Fill Container,Fill Container,填充容器
 Source/Vein/Appliances/WaterSourceComponent.cpp(305),,ShowerOn,Turn On Shower,打開淋浴
 Source/Vein/Appliances/WaterSourceComponent.cpp(44),,WaterSource_StoreWater,You fill the container.,你把容器裝滿。
-Source/Vein/Appliances/WaterSourceComponent.cpp(45),,WaterSource_DrainWater,You drain the container.,你把容器裡的水排乾。
+Source/Vein/Appliances/WaterSourceComponent.cpp(45),,WaterSource_DrainWater,You drain the container.,你把容器清空。
 Source/Vein/Appliances/WaterSourceComponent.cpp(46),,WaterSource_StoreUseLabel,Fill Container,填充容器
 Source/Vein/Appliances/WaterSourceComponent.cpp(47),,WaterSource_DrainUseLabel,Drain Container,排水容器
 Source/Vein/Appliances/WaterSourceComponent.cpp(48),,WaterSource_NoWater,Nothing comes out.,什麼也沒有發生。
@@ -8774,7 +8774,7 @@ Source/Vein/Computers/Computer.cpp(36),,Computer,Computer,電腦
 Source/Vein/Computers/Computer.cpp(50),,Use,Use,使用
 Source/Vein/Computers/Computer.cpp(55),,Computer_NoPower,The computer is unpowered.,計算機未通電。
 Source/Vein/Conditions/Condition.cpp(181),,ConditionEffect_AimMultiplier,Aim,目的
-Source/Vein/Conditions/Condition.cpp(183),,ConditionEffect_IllnessChance,Illness Chance,患病幾率
+Source/Vein/Conditions/Condition.cpp(183),,ConditionEffect_IllnessChance,Illness Chance,患病機率
 Source/Vein/Conditions/Condition.cpp(185),,ConditionEffect_JumpPain,Jump Pain,跳躍痛
 Source/Vein/Conditions/Condition.cpp(187),,ConditionEffect_SlipperyHands,Slippery Hands,滑手
 Source/Vein/Conditions/Condition.cpp(189),,ConditionEffect_SpeedMultiplier,Speed Multiplier,速度倍增器
@@ -8872,11 +8872,11 @@ Source/Vein/Core/VeinGameInstance.cpp(306),,NetworkFailure_NetDriverListenFailur
 Source/Vein/Core/VeinGameInstance.cpp(310),,NetworkFailure_Unknown,Network failure.,網路故障。
 Source/Vein/Core/VeinGameInstance.cpp(322),,NetworkFailure_Kicked,You were kicked from the server.,您已被踢出伺服器。
 Source/Vein/Core/VeinGameInstance.cpp(328),,NetworkFailure_BannedNotification,You were banned from the server.,您已被禁止存取該伺服器。
-Source/Vein/Core/VeinGameInstance.cpp(572),,Jan,Jan,簡
+Source/Vein/Core/VeinGameInstance.cpp(572),,Jan,Jan,一月
 Source/Vein/Core/VeinGameInstance.cpp(574),,Feb,Feb,二月
-Source/Vein/Core/VeinGameInstance.cpp(576),,Mar,Mar,3月
+Source/Vein/Core/VeinGameInstance.cpp(576),,Mar,Mar,三月
 Source/Vein/Core/VeinGameInstance.cpp(578),,Apr,Apr,四月
-Source/Vein/Core/VeinGameInstance.cpp(580),,May,May,可能
+Source/Vein/Core/VeinGameInstance.cpp(580),,May,May,五月
 Source/Vein/Core/VeinGameInstance.cpp(582),,Jun,Jun,六月
 Source/Vein/Core/VeinGameInstance.cpp(584),,Jul,Jul,七月
 Source/Vein/Core/VeinGameInstance.cpp(586),,Aug,Aug,八月
@@ -8907,8 +8907,8 @@ Source/Vein/Farming/CompostBinActor.cpp(101),,Compost_Open,Open,打開
 Source/Vein/Farming/CompostBinActor.cpp(105),,Compost_Open_Sealed,The bin is sealed.,垃圾桶已密封。
 Source/Vein/Farming/CompostBinActor.cpp(126),,Compost_Unseal_Confirm_Desc,Are you sure you want to unseal the compost bin? Its contents are still composting. You will receive worse compost than normal.,您確定要打開堆肥箱嗎？裡面的東西還在堆肥裡。您收到的堆肥品質會比平常差。
 Source/Vein/Farming/CompostBinActor.cpp(126),,Compost_Unseal_Confirm_Title,Unseal Compost Bin,解除堆肥箱的密封
-Source/Vein/Farming/CompostBinActor.cpp(56),,Compost_Seal,Seal,海豹
-Source/Vein/Farming/CompostBinActor.cpp(56),,Compost_Unseal,Unseal,啟封
+Source/Vein/Farming/CompostBinActor.cpp(56),,Compost_Seal,Seal,密封
+Source/Vein/Farming/CompostBinActor.cpp(56),,Compost_Unseal,Unseal,解封
 Source/Vein/Farming/CompostBinActor.cpp(66),,Compost_Ready,Finished composting {Quality} compost.,已完成堆肥{Quality} 堆肥。
 Source/Vein/Farming/CompostBinActor.cpp(74),,Compost_NotStarted,Not decayed yet. Decays in one day. Expect {Quality} compost.,尚未腐爛。一天內即可腐爛。預計堆肥品質為{Quality}。
 Source/Vein/Farming/CompostBinActor.cpp(79),,Compost_NotReady,"Still composting. {Days} {Days}|plural(one=day,other=days) remaining. Expect {Quality} compost.","仍在堆肥中。剩餘 {Days} {Days}|plural(one=day,other=days)。預計堆肥品質為 {Quality}。"
@@ -8970,7 +8970,7 @@ Source/Vein/Furniture/FurnitureComponent.cpp(440),,Furniture_CantBeMoved_Contain
 Source/Vein/Furniture/FurnitureComponent.cpp(446),,Furniture_CantBeMoved_ContainerNotSearched,This might have items in it. Search it first.,這裡面可能有物品。請先搜尋一下。
 Source/Vein/Furniture/FurnitureComponent.cpp(455),,Furniture_CantBeMoved_PlanterHasPlants,This has plants in it. Remove them first.,這裡面有植物。先把它們移走。
 Source/Vein/Furniture/FurnitureComponent.cpp(52),,Furniture,Furniture,家具
-Source/Vein/Furniture/FurnitureComponent.cpp(642),,FurnitureDismantleResultNotificationNothing,You destroyed this but salvaged nothing.,你毀掉了這一切，卻什麼也沒挽救。
+Source/Vein/Furniture/FurnitureComponent.cpp(642),,FurnitureDismantleResultNotificationNothing,You destroyed this but salvaged nothing.,你毀掉了這一切，卻什麼也沒能挽救。
 Source/Vein/Furniture/FurnitureComponent.cpp(650),,FurnitureDismantleResultNotification_User,"You destroyed this.
 You received:
 
@@ -9129,7 +9129,7 @@ Source/Vein/Inventory/Item.cpp(1684),,Yes,Yes,是的
 Source/Vein/Inventory/Item.cpp(1686),,ItemKVTooltip_Placeholder,"VEIN is still work-in-progress, so we are using temporary art for this item.",VEIN 仍在製作中，因此我們使用臨時藝術來呈現這個項目。
 Source/Vein/Inventory/Item.cpp(1693),,Condition,Condition,狀態
 Source/Vein/Inventory/Item.cpp(1718),,Melee Damage Type,Melee Damage Type,近戰傷害類型
-Source/Vein/Inventory/Item.cpp(172),,EatFood_Spiked,You eat the food. Something's off...,你吃了食物。有些不對勁…
+Source/Vein/Inventory/Item.cpp(172),,EatFood_Spiked,You eat the food. Something's off...,你吃了食物。感覺有些不對勁…
 Source/Vein/Inventory/Item.cpp(1737),,Melee Base Swing Time,Melee Base Swing Time,近戰基礎揮動時間
 Source/Vein/Inventory/Item.cpp(1745),,Melee Base Damage,Melee Base Damage,近戰基礎傷害
 Source/Vein/Inventory/Item.cpp(1751),,Melee Base DPS,Melee Base DPS,近戰基礎DPS
@@ -9176,7 +9176,7 @@ Source/Vein/Inventory/ItemInstance.cpp(311),,Grab,Grab,抓住
 Source/Vein/Inventory/ItemInstance.cpp(321),,GrabAndEquip,Grab & Equip,抓取並裝備
 Source/Vein/Inventory/ItemInstance.cpp(325),,UtilityItem_NoSlot,You have no slots to equip this.,您沒有插槽來裝備此物品。
 Source/Vein/Inventory/Items/BandageItem.cpp(36),,BandageWound,You bandage your wound.,你包紮傷口。
-Source/Vein/Inventory/Items/BandageItem.cpp(56),,BandageBite,You bandage the bite.,你包紮了傷口。
+Source/Vein/Inventory/Items/BandageItem.cpp(56),,BandageBite,You bandage the bite.,你包紮好傷口。
 Source/Vein/Inventory/Items/BandageItem.cpp(76),,BandageFrostbiteWound,You bandage your frostbite wound.,你包紮了凍傷的傷口。
 Source/Vein/Inventory/Items/BandageItem.cpp(85),,BandageWound_NoValidWound,You have no wound that needs bandaging.,您沒有需要包紮的傷口。
 Source/Vein/Inventory/Items/BatteryItem.cpp(57),,BatteryPowerLabel,Power,力量
@@ -9210,7 +9210,7 @@ Source/Vein/Inventory/Items/DebitCardItem.cpp(137),,DebitCardNumber_Tooltip,"You
 Source/Vein/Inventory/Items/DebitCardItem.cpp(36),,Withdraw,Withdraw,提取
 Source/Vein/Inventory/Items/DebitCardItem.cpp(61),,ATM_PoweredOff,The ATM is off.,ATM 已關閉。
 Source/Vein/Inventory/Items/DebitCardItem.cpp(67),,ATM_PoweredOn_NoConnection,"The ATM reads ""CONNECTION FAILED - PLEASE NOTIFY TELLER"".",ATM 顯示「連線失敗 - 請通知出納員」。
-Source/Vein/Inventory/Items/DebitCardItem.cpp(76),,ATM_InsufficientFunds,"The ATM reads ""INSUFFICIENT FUNDS - PLEASE WITHDRAW CARD"". It looks like the account has no money in it.",ATM 機上顯示「資金不足 - 請提款」。看來帳戶裡沒有錢了。
+Source/Vein/Inventory/Items/DebitCardItem.cpp(76),,ATM_InsufficientFunds,"The ATM reads ""INSUFFICIENT FUNDS - PLEASE WITHDRAW CARD"". It looks like the account has no money in it.",ATM 機上顯示「餘額不足 - 請取回金融卡」。看來帳戶裡沒有錢了。
 Source/Vein/Inventory/Items/DebitCardItem.cpp(82),,ATM_NoMoneyInATM,"The ATM reads ""SORRY FOR THE INCONVENIENCE"".",ATM 機上寫著「抱歉造成不便」。
 Source/Vein/Inventory/Items/DirtItem.cpp(34),,DirtQuality,Quality,品質
 Source/Vein/Inventory/Items/DoorLockItem.cpp(165),,Lock_ChangeLock_InvalidActor,"You can't put a lock on this. Locks can be attached to doors, containers, etc.",這個東西不能上鎖。鎖可以裝在門、容器等等上。
@@ -9251,7 +9251,7 @@ Source/Vein/Inventory/Items/FluidContainerItem.cpp(676),,Capacity_Tooltip,How mu
 Source/Vein/Inventory/Items/FluidContainerItem.cpp(684),,FluidDecay_HelpTooltip,Some fluids can decay or be unclean. Drinking these may cause medical problems.,有些液體可能會腐爛或不潔淨。飲用這些液體可能會導致健康問題。
 Source/Vein/Inventory/Items/FluidContainerItem.cpp(690),,Heat,Heat,熱
 Source/Vein/Inventory/Items/FluidContainerItem.cpp(691),,FluidContainerHeat_Tooltip,"How hot the fluid is. Some hot fluids (like tea, coffee, or cocoa) may make you feel more comfortable.",液體的溫度。一些熱的液體（如茶、咖啡或可可）可能會讓您感覺更舒適。
-Source/Vein/Inventory/Items/FluidContainerItem.cpp(695),,Frozen,Frozen,《冰雪奇緣》
+Source/Vein/Inventory/Items/FluidContainerItem.cpp(695),,Frozen,Frozen,冰封
 Source/Vein/Inventory/Items/FluidContainerItem.cpp(696),,FluidContainerHeat_Frozen,The fluid is currently frozen solid.,目前，液體已完全凍結。
 Source/Vein/Inventory/Items/FluidContainerItem.cpp(701),,Extremely Cold,Extremely Cold,極寒
 Source/Vein/Inventory/Items/FluidContainerItem.cpp(705),,Cold,Cold,寒冷的
@@ -9264,7 +9264,7 @@ Source/Vein/Inventory/Items/FoodItem.cpp(140),,FoodDescSuffix_NotCooked,"{FoodDe
 
 Would be better if cooked.","{FoodDescription}
 
-煮熟了吃會更好。"
+煮熟再吃會更好。"
 Source/Vein/Inventory/Items/FoodItem.cpp(172),,Eat,Eat,吃
 Source/Vein/Inventory/Items/FoodItem.cpp(196),,FrozenFoodDamage,"This needs to be defrosted to be eaten. You bite the rock-hard food in vain, hurting your teeth.",這東西得解凍了才能吃，硬邦邦的，咬不動，還傷了牙齒。
 Source/Vein/Inventory/Items/FoodItem.cpp(291),,HungerSatiation,Hunger Satiation,飢餓飽足
